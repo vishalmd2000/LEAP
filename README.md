@@ -1,4 +1,6 @@
 Flutter-PoseNet-TFlite
+
+
 Integrating Mobile Camera for Real-Time Pose Estimation with Flutter, TensorFlow Lite, and PoseNet
 
 Introduction Human Pose estimation is an important problem that has enjoyed the attention of the Computer Vision community for the past few decades. It is a crucial step towards understanding people in images and videos. Human Pose Estimation is defined as the problem of localization of human joints (also known as keypoints - elbows, wrists, etc) in images or videos. It is also defined as the search for a specific pose in space of all articulated poses. What about 2D and 3D pose estimations? 2D Pose Estimation - Estimate a 2D pose (x,y) coordinates for each joint from a RGB image. 3D Pose Estimation - Estimate a 3D pose (x,y,z) coordinates a RGB image.
